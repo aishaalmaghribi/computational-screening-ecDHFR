@@ -1,0 +1,17 @@
+Parameter: Rosmarinic acid
+Molecular weight: 360.31
+H-bond donors: 5
+H-bond acceptors: 8
+TPSA (Å²): 144
+Lipinski's violations: 0
+cLogP: 1.91
+Bioavailability score: 0.56
+
+  Parameter: Berberine
+Molecular weight: 336.36
+H-bond donors: 0
+H-bond acceptors: 4
+TPSA (Å²): 45
+Lipinski's violations: 0
+cLogP: 3.47
+Bioavailability score: 0.55
