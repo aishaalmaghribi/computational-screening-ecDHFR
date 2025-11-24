@@ -1,0 +1,29 @@
+
+## Methods
+### Molecular Docking
+- **Target:** ecDHFR (PDB: 1RF7)
+- **Tool:** CB-Dock web server
+- **Approach:** Blind docking with AutoDock Vina
+- **Ligands:** 10 natural products from PubChem
+
+### ADME Profiling
+- **Tool:** SwissADME
+- **Parameters:** GI absorption, BBB penetration, CYP inhibition, drug-likeness
+
+## Key Results Files
+- `results/docking/` - Docked complexes and interaction analysis
+- `results/adme/` - Pharmacokinetic predictions
+- `manuscript/final_manuscript.pdf` - Complete research paper
+
+## How to Reproduce
+1. Docking results were generated via CB-Dock web server
+2. Input files are in `data/raw/`
+3. Results are documented in `results/`
+
+## Limitations
+- Computational predictions require experimental validation
+- Blind docking may identify non-biological binding sites
+
+
+## License
+This work is licensed under the MIT License - see LICENSE file for details.
