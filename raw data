@@ -1,0 +1,4 @@
+Protein Selection : The crystal structure of ecDHFR was obtained from Protein Data Bank (PDB ID:1RF7). This structure was selected for its high resolution (1.80 Å) and the well-defined, ligand-free active site. https://www.rcsb.org/structure/1RF7
+Ligand Library Curation: A focused library of ten natural compounds “Table 1” with established bioactivity was curated for screening. The 3D structures of these compounds were retrieved from the PubCHem database in the SDF format.
+
+
