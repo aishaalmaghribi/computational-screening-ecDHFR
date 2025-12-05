@@ -2,4 +2,14 @@ Protein Selection : The crystal structure of ecDHFR was obtained from Protein Da
 https://www.rcsb.org/structure/1RF7
 
 Ligand Library Curation: A focused library of ten natural compounds “Table 1” with established bioactivity was curated for screening. The 3D structures of these compounds were retrieved from the PubCHem database in the SDF format.
-
+Natural compound name | PubChem ID
+Baicalein | 64982
+Berberine | 2353
+Chlorogenic Acid | 1794427
+Curcumin | 969526
+Ellagic Acid | 5281855
+Luteolin | 5280445
+Myricetin | 5281672
+Quercetin | 5280343
+Resveratrol | 445154
+Rosmarinic Acid | 5281792
