@@ -8,6 +8,8 @@
    - Curated 10 natural products from PubChem
    - Converted to appropriate formats
 
+###check the processed data file for more
+
 3. **Molecular Docking**
    - Used CB-Dock server with default parameters
    - Selected top 2 compounds by Vina score
@@ -19,6 +21,4 @@
 5. **ADME Profiling**
    - Used SwissADME with canonical SMILES
    - Evaluated drug-likeness and pharmacokinetics
-
-toxicity detection was excluded since both compounds are not that high candidates
 
