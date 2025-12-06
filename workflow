@@ -20,4 +20,5 @@
    - Used SwissADME with canonical SMILES
    - Evaluated drug-likeness and pharmacokinetics
 
-toxicity detection was excluded 
+toxicity detection was excluded since both compounds are not that high candidates
+
