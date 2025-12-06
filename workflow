@@ -19,4 +19,3 @@
 5. **ADME Profiling**
    - Used SwissADME with canonical SMILES
    - Evaluated drug-likeness and pharmacokinetics
-&&&
