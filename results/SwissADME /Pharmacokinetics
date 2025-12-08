@@ -6,8 +6,8 @@ CYP1A2 inhibitor: No
 CYP2C19 inhibitor: No
 CYP2C9 inhibitor: No
 CYP2D6 inhibitor: No
-CYP3A4 inhibitor: No
-Log K (skin permeation): 0.56
+CYP3A4 inhibit : No
+Log K           : 0.56
 
 
 Parameter      : Berberine
@@ -19,4 +19,4 @@ CYP2C19 inhibit: No
 CYP2C9 inhibit : Yes
 CYP2D6 inhibit : No
 CYP3A4 inhibit : Yes
-Log K (skin permeation): 0.55
+Log K          : 0.55
