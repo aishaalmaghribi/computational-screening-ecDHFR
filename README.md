@@ -10,4 +10,4 @@ This repository contains computational work identifying Berberine and Rosmarinic
 - **Berberine:** High binding affinity (-8.8 kcal/mol), good oral bioavailability, but CYP450 inhibition risk
 - **Rosmarinic Acid:** Excellent binding affinity (-9.0 kcal/mol), clean safety profile, but poor absorption
 
-## Repository Structure.
+
