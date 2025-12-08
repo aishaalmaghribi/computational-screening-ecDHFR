@@ -14,8 +14,8 @@ Parameter      : Berberine
 GI absorption  : High
 BBB permeation : No
 P-gp substrate : No
-CYP1A2 inhibitor: No
-CYP2C19 inhibitor: No
+CYP1A2 inhibit : No
+CYP2C19 inhibit: No
 CYP2C9 inhibitor: Yes
 CYP2D6 inhibitor: No
 CYP3A4 inhibitor: Yes
