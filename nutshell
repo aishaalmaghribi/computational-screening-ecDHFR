@@ -17,8 +17,8 @@
 
 ## How to Reproduce
 1. Docking results were generated via CB-Dock web server
-2. Input files are in `data/raw/`
-3. Results are documented in `results/`
+2. Input files are in data/raw/
+3. Results are documented in results/
 
 # Limitations
 - Computational predictions require experimental validation
