@@ -11,9 +11,9 @@
 - **Parameters:** GI absorption, BBB penetration, CYP inhibition, drug-likeness
 
 # Key Results Files
-- `results/docking/` - Docked complexes and interaction analysis
-- `results/adme/` - Pharmacokinetic predictions
-- `manuscript/final_manuscript.pdf` - Complete research paper
+- results/docking/ - Docked complexes and interaction analysis
+- results/adme/ - Pharmacokinetic predictions
+- manuscript/final_manuscript.pdf - Complete research paper
 
 ## How to Reproduce
 1. Docking results were generated via CB-Dock web server
