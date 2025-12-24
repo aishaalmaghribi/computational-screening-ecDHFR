@@ -1,6 +1,6 @@
 
 # Methods
-## Molecular Docking
+### Molecular Docking
 - **Target:** ecDHFR (PDB: 1RF7)
 - **Tool:** CB-Dock web server
 - **Approach:** Blind docking with AutoDock Vina
